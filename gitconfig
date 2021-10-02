@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = miranda0120@hotmail.com
+	name = Meiling Wang
